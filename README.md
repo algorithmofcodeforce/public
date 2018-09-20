@@ -7,3 +7,12 @@
 * https://www.acmicpc.net/problem/1966
 * https://www.acmicpc.net/problem/11866
 * https://www.acmicpc.net/problem/1158
+
+### 9월 24일 ~ 9월 30일
+* https://www.acmicpc.net/problem/1934
+* https://www.acmicpc.net/problem/13241
+* https://www.acmicpc.net/problem/1094
+* https://www.acmicpc.net/problem/2775
+* https://www.acmicpc.net/problem/11066
+* https://www.acmicpc.net/problem/10253
+* https://www.acmicpc.net/problem/1024
