@@ -11,6 +11,7 @@
 * https://www.acmicpc.net/problem/10866
 * https://www.acmicpc.net/problem/1107
 * https://www.acmicpc.net/problem/2981
+* (bonus) https://www.acmicpc.net/problem/13413
 
 ### 9월 24일 ~ 9월 30일
 * https://www.acmicpc.net/problem/1934
