@@ -3,6 +3,15 @@
 
 매주 7문제 중에서 최소 3문제를 풀어야 하며 7문제 다 푸셔도 됩니다.
 
+### 10월 8일 ~ 10월 14일
+* https://www.acmicpc.net/problem/3052
+* https://www.acmicpc.net/problem/3054
+* https://www.acmicpc.net/problem/3046
+* https://www.acmicpc.net/problem/3055
+* https://www.acmicpc.net/problem/3056
+* https://www.acmicpc.net/problem/3047
+* https://www.acmicpc.net/problem/3048
+
 ### 10월 1일 ~ 10월 7일 
 * https://www.acmicpc.net/problem/2609
 * https://www.acmicpc.net/problem/3036
