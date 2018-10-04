@@ -5,8 +5,8 @@
 
 ### 10월 8일 ~ 10월 14일
 * https://www.acmicpc.net/problem/3052
-* https://www.acmicpc.net/problem/3054
 * https://www.acmicpc.net/problem/3046
+* https://www.acmicpc.net/problem/3053
 * https://www.acmicpc.net/problem/3055
 * https://www.acmicpc.net/problem/3056
 * https://www.acmicpc.net/problem/3047
