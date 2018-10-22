@@ -4,20 +4,20 @@
 매주 7문제 중에서 최소 3문제를 풀어야 하며 7문제 다 푸셔도 됩니다.
 
 ### 10월 22일 ~ 10월 28일
-https://www.acmicpc.net/problem/11004
-https://www.acmicpc.net/problem/1780
-https://www.acmicpc.net/problem/2740
-https://www.acmicpc.net/problem/1026
-https://www.acmicpc.net/problem/1032
-https://www.acmicpc.net/problem/15999
-https://www.acmicpc.net/problem/15997
-https://www.acmicpc.net/problem/14502
-https://www.acmicpc.net/problem/14888
-https://www.acmicpc.net/problem/14889
-https://www.acmicpc.net/problem/14503
-https://www.acmicpc.net/problem/7576
-https://www.acmicpc.net/problem/9095
-https://www.acmicpc.net/problem/6603
+* https://www.acmicpc.net/problem/11004
+* https://www.acmicpc.net/problem/1780
+* https://www.acmicpc.net/problem/2740
+* https://www.acmicpc.net/problem/1026
+* https://www.acmicpc.net/problem/1032
+* https://www.acmicpc.net/problem/15999
+* https://www.acmicpc.net/problem/15997
+* https://www.acmicpc.net/problem/14502
+* https://www.acmicpc.net/problem/14888
+* https://www.acmicpc.net/problem/14889
+* https://www.acmicpc.net/problem/14503
+* https://www.acmicpc.net/problem/7576
+* https://www.acmicpc.net/problem/9095
+* https://www.acmicpc.net/problem/6603
 
 ### 10월 8일 ~ 10월 14일
 * https://www.acmicpc.net/problem/3052
