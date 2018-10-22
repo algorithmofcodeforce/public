@@ -3,7 +3,7 @@
 
 매주 7문제 중에서 최소 3문제를 풀어야 하며 7문제 다 푸셔도 됩니다.
 
-### 10월 22일 ~ 11월 28일
+### 10월 22일 ~ 10월 28일
 https://www.acmicpc.net/problem/11004
 https://www.acmicpc.net/problem/1780
 https://www.acmicpc.net/problem/2740
